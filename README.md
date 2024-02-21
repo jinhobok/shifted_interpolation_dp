@@ -19,5 +19,5 @@ A repository for reproducing the numerical results in the paper "Shifted Interpo
 + The formats of tables and figures obtained from the codes may have been modified for better presentation in the paper.
 
 # Acknowledgements
-+ The code for regularized logistic regression is adapted from https://github.com/yawen-d/Logistic-Regression-on-MNIST-with-NumPy-from-Scratch.
-+ The code for calculating the privacy of subsampled Gaussian mechanism is designed to work within the PRV framework of https://github.com/microsoft/prv_accountant.
++ The code for regularized logistic regression ` table_acc_lr.py ` is adapted from https://github.com/yawen-d/Logistic-Regression-on-MNIST-with-NumPy-from-Scratch.
++ The code for calculating the privacy of subsampled Gaussian mechanism ` prv_SymmPoissonSubsampledGaussianMechanism.py ` is designed to work within the PRV framework of https://github.com/microsoft/prv_accountant.
