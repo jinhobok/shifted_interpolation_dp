@@ -15,7 +15,7 @@ A repository for reproducing the numerical results in the paper "Shifted Interpo
 + ` requirements.txt ` : required packages
 
 # Remarks
-+ The numbers of tables and figures are based on the latest arXiv version.
++ The numbers of tables and figures are based on the latest arXiv version of the paper.
 + The formats of tables and figures obtained from the codes may have been modified for better presentation in the paper.
 
 # Reference
