@@ -3,7 +3,7 @@ A repository for reproducing the numerical results in the paper "Shifted Interpo
 
 # Files
 + ` gdp.py ` : utils for calculating Gaussian tradeoff functions
-+ ` plot_intro.py ` : code for generating Figure 1 (exemplary numerics on NoisyGD) and Figure 2 (Illustration of f-DP and GDP)
++ ` plot_intro.py ` : code for generating Figure 1 (exemplary numerics on NoisyGD) and Figure 2 (illustration of f-DP and GDP)
 + ` plot_nsgd_fdp.py ` : code for generating Figure 10 (numerics on NoisySGD)
 + ` plot_nsgd_opt.py ` : code for generating Figure 4 (one-step optimality of privacy bound of NoisySGD)
 + ` plot_table_ncgd_fdp.py ` : code for generating Figure 8-9 and Table 9-12 (numerics on NoisyCGD)
