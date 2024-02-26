@@ -16,7 +16,7 @@ A repository for reproducing the numerical results in the paper "Shifted Interpo
 
 # Remarks
 + The numbers on tables and figures are based on the latest arXiv version of the paper.
-+ The formats of tables and figures obtained from the codes may have been modified for better presentation in the paper.
++ The formats of tables and figures obtained from the code may have been modified for better presentation in the paper.
 
 # Acknowledgements
 + The code for regularized logistic regression ` table_acc_lr.py ` is adapted and modified from https://github.com/yawen-d/Logistic-Regression-on-MNIST-with-NumPy-from-Scratch.
