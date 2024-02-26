@@ -1,0 +1,6 @@
+numpy==1.23.5
+scipy==1.11.4
+pandas==1.5.3
+prv-accountant==0.2.0
+h5py==3.10.0
+matplotlib==3.8.2
