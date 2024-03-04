@@ -1,5 +1,5 @@
 # shifted_interpolation_dp
-A repository for reproducing the numerical results in the paper "Shifted Interpolation for Differential Privacy" (soon to be posted)
+A repository for reproducing the numerical results in the paper ["Shifted Interpolation for Differential Privacy"](https://arxiv.org/abs/2403.00278)
 
 # Files
 + ` gdp.py ` : utils for calculating Gaussian tradeoff functions
